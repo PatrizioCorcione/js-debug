@@ -57,3 +57,12 @@ function displayEvenNumbers() {
     }
 }
 displayEvenNumbers(); // dovrebbe restituire [2,4,6,8]
+
+//questo codice restituisce i numeri pari.
+/*errori di sintassi:
+1 la dichiarazine degli array e fatta con let invece che con cost.
+2 non serve il punto e virgola dopo il i++.
+3 la condizione di if e sbagliata, si deve usare == invece di = e non serve il punto e virgola subito dopo.
+4 numbers e un array quindi si deve usare numbers[i] invece di numbers.
+*/
+// errore logico: non dovrebbe puschare i ma numbers[i].
