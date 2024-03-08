@@ -106,6 +106,10 @@ function checkAccessImproved() {
     }
     checkAccessImproved();
 
+    //questo codice controlla se l email inserita nel prompt e presente nell array addresses e restituisce un messaggio diverso a seconda del risultato con un controllo sulla lunghezza dell email.
+    //errore di sintassi: stesso errore del booleano di sopra e in piu c e un errore di indentazione. quindi erano due errori bugiardi.
+    //errore logico: non ci sono errori logici.
+
 
 
 
