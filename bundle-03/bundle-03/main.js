@@ -84,3 +84,9 @@ console.log(dieselCars);
 
 console.log('Tutte le altre auto');
 console.log(otherCars);
+
+// questo codice filtra le auto in base al tipo di carburante.
+// errore di sintassi: manca una virgola alla fine dell oggetto 9 poi e scritta male l arrowfuction nella riga 67.
+// A riga 67 manca il return.
+// manca il tolowercase per la stringa benzina e metano.
+// errore logico: negli operatori logici doveva essere && invece di ||.
