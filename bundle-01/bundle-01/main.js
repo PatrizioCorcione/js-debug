@@ -27,6 +27,10 @@ function addIfEven(num) {
     return num;
 }
 
+//questo codice restituisce il numero + 5 se e pari
+//errore sintassi: la condizione di if e sbagliata, si deve usare == invece di =
+//non dovrebbero esserci se non consideriamo che aggiungendo 5 diventera dispari
+
 
 // ESERCIZIO 3
 function loopToFive() {
@@ -34,6 +38,8 @@ function loopToFive() {
         console.log(i);
     }
 }
+
+
 
 
 // ESERCIZIO 4 (suggerimento: ci sono 7 errori)
