@@ -23,6 +23,10 @@ function checkAge() {
 }
 checkAge();
 
+//questo docice controlla la variabile myAge e restituisce un messaggio diverso a seconda del valore.
+//errore sintassi: la variabile message non puo essere modificata perche e stata dichiarata con const.
+//errore logico non avrebbe senso creare una funzione che controlli una data se la suddetta non viene inserita da fonti esterne.
+
 // ESERCIZIO 2
 function printColorsNumber() {
     const colors = ['blue', 'red', 'yellow', 'green', 'black'];
