@@ -34,6 +34,10 @@ function printColorsNumber() {
 }
 printColorsNumber();
 
+//questo codice stampa la lunghezza dell'array colors
+//errore di sintassi: la proprieta lenght e scritta con l h sbagliata.
+//non ci sono errori logici.
+
 
 // ESERCIZIO 3
 function addNumbers() {
