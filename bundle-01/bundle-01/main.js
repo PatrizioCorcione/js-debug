@@ -14,6 +14,9 @@
 for (let i = 0; i > 5; i++) {
     console.log(i);
 }
+//questo codice stampoa in console i numeri tra 0 e 5
+//errore logico: questo ciclo non funziona perche la condizione i > 5 e falsa
+// non ci sono errori di sintassi
 
 
 // ESERCIZIO 2
