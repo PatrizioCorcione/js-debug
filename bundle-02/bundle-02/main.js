@@ -47,6 +47,10 @@ function addNumbers() {
     console.log(`Il risultato finale è ${total}`);
 }
 addNumbers();
+//questo codice chiede all'utente di inserire un numero e poi lo somma a 12.
+//errore logico: la variabile total non e stata convertita in numero.
+//potrebbe essere un errore logico anche il mettere un  numero fisso da sommare.
+//errore sintassi: non ci sono errori di sintassi.
 
 
 // ESERCIZIO 4
