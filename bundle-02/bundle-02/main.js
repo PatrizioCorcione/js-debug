@@ -72,6 +72,11 @@ function checkAccess() {
 }
 checkAccess();
 
+//questo codice controlla se l email inserita nel prompt e presente nell array addresses e restituisce un messaggio diverso a seconda del risultato.
+//errore di sintassi grantAccess se e un booleano non dovrebbe mettere gli apici.
+//errore logico: non ci sono errori logici.
+//sarebbe corretto mettere un controllo sul prompt per la chiocciola.
+
 
 // ESERCIZIO 5 (suggerimento: c'è un solo errore)
 function checkAccessImproved() {
