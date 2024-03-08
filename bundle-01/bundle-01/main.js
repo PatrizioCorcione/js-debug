@@ -14,9 +14,9 @@
 for (let i = 0; i > 5; i++) {
     console.log(i);
 }
-//questo codice stampoa in console i numeri tra 0 e 5
-//errore logico: questo ciclo non funziona perche la condizione i > 5 e falsa
-// non ci sono errori di sintassi
+//questo codice stampoa in console i numeri tra 0 e 5.
+//errore logico: questo ciclo non funziona perche la condizione i > 5 e falsa.
+// non ci sono errori di sintassi.
 
 
 // ESERCIZIO 2
@@ -27,9 +27,9 @@ function addIfEven(num) {
     return num;
 }
 
-//questo codice restituisce il numero + 5 se e pari
-//errore sintassi: la condizione di if e sbagliata, si deve usare == invece di =
-//non dovrebbero esserci se non consideriamo che aggiungendo 5 diventera dispari
+//questo codice restituisce il numero + 5 se e pari.
+//errore sintassi: la condizione di if e sbagliata, si deve usare == invece di =.
+//non dovrebbero esserci se non consideriamo che aggiungendo 5 diventera dispari.
 
 
 // ESERCIZIO 3
@@ -39,6 +39,9 @@ function loopToFive() {
     }
 }
 
+//questo codice stampa in console i numeri da 0 a 5.
+//errore sintassi: ci sono 2 virgole invece di punto e virgola.
+//non ci sono errori logici.
 
 
 
